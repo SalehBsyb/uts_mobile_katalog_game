@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk menjalankan aplikasi ini di komputer Anda:
 1. Pastikan Anda sudah menginstal Flutter SDK dan Dart di perangkat Anda.
 2. Salin (klon) repositori ini ke dalam penyimpanan lokal Anda menggunakan perintah:
    ```bash
-   git clone https://github.com/[NAMA_AKUN_GITHUB_ANDA]/uts_mobile_katalog_game.git
+   git clone https://github.com/SalehBsyb/uts_mobile_katalog_game.git
    ```
 3. Buka terminal, lalu arahkan ke dalam direktori proyek:
    ```bash
